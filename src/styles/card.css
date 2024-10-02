@@ -1,0 +1,26 @@
+.sub-title {
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: yellow;
+}
+.boton-favorito{
+    border-radius: 3px;
+    border: solid 2px yellow;
+    background-color: transparent;
+
+}
+.boton-leer {
+    border-radius: 8px;
+    border: solid 2px #030303;
+    background-color: #03e9e5;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px ;
+}
+.contenedor-tarjetas {
+    background-image: url("https://www.ngenespanol.com/wp-content/uploads/2023/07/que-es-el-universo-que-lo-conforma-por-que-se-llama-universo.jpg");   
+    background-repeat: no-repeat;
+    width: 150%;
+        
+}
